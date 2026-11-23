@@ -1,0 +1,7 @@
+{
+  "sample_rate_hz": 9600.0,
+  "symbol_rate_hz": 1200.0,
+  "source": "ao73.wav",
+  "n_samples": 48000,
+  "note": "real-valued audio converted to analytic complex samples"
+}

@@ -1,0 +1,13 @@
+{
+  "modulation": "BPSK",
+  "sample_rate_hz": 1000000.0,
+  "samples_per_symbol": 8,
+  "symbol_rate_hz": 125000.0,
+  "rolloff": 0.35,
+  "n_symbols": 4000,
+  "snr_db": 20,
+  "freq_offset_hz": 28292.388731587314,
+  "phase_rad": 5.15168354316671,
+  "seed": 7000200,
+  "file": "BPSK_20dB_0.iq"
+}

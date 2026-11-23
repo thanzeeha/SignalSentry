@@ -1,0 +1,1 @@
+python -m signalsentry.convert_iq data\real\ao73.wav --fmt wavreal --fs 48000 --rs 1200 --auto-shift --target-fs 9600 --skip-s 0.3 --max-s 5 --out data\real\ao73.iq

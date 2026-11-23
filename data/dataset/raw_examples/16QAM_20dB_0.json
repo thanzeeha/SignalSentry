@@ -1,0 +1,13 @@
+{
+  "modulation": "16QAM",
+  "sample_rate_hz": 1000000.0,
+  "samples_per_symbol": 8,
+  "symbol_rate_hz": 125000.0,
+  "rolloff": 0.35,
+  "n_symbols": 4000,
+  "snr_db": 20,
+  "freq_offset_hz": 12548.490657225695,
+  "phase_rad": 4.78711827352198,
+  "seed": 7000400,
+  "file": "16QAM_20dB_0.iq"
+}

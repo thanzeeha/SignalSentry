@@ -1,0 +1,9 @@
+SIGNALSENTRY – REAL RECORDING TEST DISCLOSURES
+
+1. I did not test this file blind. The expected modulation and recording context were known before testing.
+
+2. It is audio from a receiver, not raw I/Q data.
+
+3. The signal looks cut off at the left side of the spectrum, so my measurements on it are unreliable.
+
+These limitations should be considered when interpreting the results of this test.

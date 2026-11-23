@@ -1,0 +1,13 @@
+{
+  "modulation": "8PSK",
+  "sample_rate_hz": 1000000.0,
+  "samples_per_symbol": 8,
+  "symbol_rate_hz": 125000.0,
+  "rolloff": 0.35,
+  "n_symbols": 4000,
+  "snr_db": 20,
+  "freq_offset_hz": 38582.10470672468,
+  "phase_rad": 0.6456235022405369,
+  "seed": 7000501,
+  "file": "8PSK_20dB_1.iq"
+}

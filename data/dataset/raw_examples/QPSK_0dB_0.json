@@ -1,0 +1,13 @@
+{
+  "modulation": "QPSK",
+  "sample_rate_hz": 1000000.0,
+  "samples_per_symbol": 8,
+  "symbol_rate_hz": 125000.0,
+  "rolloff": 0.35,
+  "n_symbols": 4000,
+  "snr_db": 0,
+  "freq_offset_hz": 32093.21904203194,
+  "phase_rad": 2.1057410142221866,
+  "seed": 7000100,
+  "file": "QPSK_0dB_0.iq"
+}

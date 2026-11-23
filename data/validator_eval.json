@@ -1,0 +1,93 @@
+{
+  "A_all": {
+    "n": 960,
+    "wrong": 202,
+    "right": 758,
+    "full": {
+      "caught": 202,
+      "false_alarms": 278
+    },
+    "cross": {
+      "caught": 201,
+      "false_alarms": 67
+    },
+    "r2": {
+      "caught": 64,
+      "false_alarms": 9
+    }
+  },
+  "A_detected_only": {
+    "n": 905,
+    "wrong": 147,
+    "right": 758,
+    "full": {
+      "caught": 147,
+      "false_alarms": 278
+    },
+    "cross": {
+      "caught": 146,
+      "false_alarms": 67
+    },
+    "r2": {
+      "caught": 9,
+      "false_alarms": 9
+    }
+  },
+  "A_ge5": {
+    "n": 480,
+    "wrong": 0,
+    "right": 480,
+    "full": {
+      "caught": 0,
+      "false_alarms": 0
+    },
+    "cross": {
+      "caught": 0,
+      "false_alarms": 0
+    },
+    "r2": {
+      "caught": 0,
+      "false_alarms": 0
+    }
+  },
+  "B_all": {
+    "n": 320,
+    "wrong": 320,
+    "right": 0,
+    "full": {
+      "caught": 320,
+      "false_alarms": 0
+    },
+    "cross": {
+      "caught": 320,
+      "false_alarms": 0
+    },
+    "r2": {
+      "caught": 41,
+      "false_alarms": 0
+    }
+  },
+  "B_ge5": {
+    "n": 160,
+    "wrong": 160,
+    "right": 0,
+    "full": {
+      "caught": 160,
+      "false_alarms": 0
+    },
+    "cross": {
+      "caught": 160,
+      "false_alarms": 0
+    },
+    "r2": {
+      "caught": 0,
+      "false_alarms": 0
+    }
+  },
+  "C": {
+    "n": 360,
+    "flagged": 360,
+    "passed": 0,
+    "passed_wrong": 0
+  }
+}

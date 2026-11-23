@@ -1,0 +1,2 @@
+file,added,label,label_source,fs_hz,rs_hz,n_samples,centre_hz,bandwidth_hz,snr_db,abs_C40,C42,env_var,predicted,top_prob,verdict,score,hard_flags,note
+ao73.iq,2026-11-23,BPSK,SatNOGS DB lists FUNcube-1 as 1200-baud BPSK,9600.0,1200.0,48000,-820.3,3759.6,6.31,0.1131,-0.6432,0.11173,16QAM,0.702,HUMAN REVIEW REQUIRED,19.6,R3;R4;R7,"audio, not raw IQ"
